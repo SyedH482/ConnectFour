@@ -1,2 +1,7 @@
 # ConnectFour
-ConnectFour in python using the termina;
+
+## How to play:
+
+Run python ConnectFour.py in your terminal to play
+
+Highly recommend playing with two players!
